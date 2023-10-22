@@ -6,7 +6,7 @@ Here we develop a new yet practical annotation tool that aims to continuously le
 
 Architecture
 -----
-![model](https://github.com/AimeeFreedom/Incremental-SC/blob/main/Architecture/framework.pdf)
+![model](https://github.com/AimeeFreedom/Incremental-SC/blob/main/Architecture/framework.jpg)
 
 Requirement
 -----
