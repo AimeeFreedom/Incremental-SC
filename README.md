@@ -32,8 +32,12 @@ Please build the corresponding operation environment before running our codes.
 
 Quickstart
 -----
-We provide some explanatory descriptions for the codes, please see the specific code files. We supply several kinds of training codes for intra-data, inter-tissue, and inter-data, respectively. If you want to use the learning strategies in intra-data, you can focus on the "single" series, and if you want to use them in inter-tissue and inter-data, you can pay attention to the "real" series. 
+We provide some explanatory descriptions for the codes, please see the specific code files. We supply several kinds of training codes for intra-data, inter-tissue, and inter-data, respectively. If you want to use the learning strategies in the intra-data setting, you can focus on the "single" series, and if you want to use them in the inter-tissue and inter-data settings, you can pay attention to the "real" series. 
 
 Data
 -----
 All datasets we used can be downloaded in <a href="https://cblast.gao-lab.org/download">data</a>.
+
+Contributing
+-----
+Author email: zhaiyuyao@stu.pku.edu.cn. If you have any questions, please contact me.
